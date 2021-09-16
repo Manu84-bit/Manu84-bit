@@ -9,16 +9,18 @@
 
 ## Languages and tools:
 
-<img align="left" alt="SQL" width="26px" src="unity-icon-png-3.png"> &nbsp;
+<img align="left" alt="SQL" width="30px" src="unity-icon-png-3.png">
 
-<img align="left" alt="SQL" width="30" src="androidLogo.jpg">&nbsp;
+<img align="left" alt="SQL" width="34px" src="androidLogo.jpg">
 
-<img align="left" alt="SQL" width="20px" src="java.png">&nbsp;
+<img align="left" alt="SQL" width="20px" src="java.png">
 
-<img align="left" alt="SQL" width="26px" src="csharp-logo.png">&nbsp;
+<img align="left" alt="SQL" width="26px" src="csharp-logo.png">
 
-<img align="left" alt="SQL" width="26px" src="HTML-Logo.png">&nbsp;
+<img align="left" alt="SQL" width="26px" src="HTML-Logo.png">
 
-<img align="left" alt="SQL" width="20px" src="cssLogo.png">&nbsp;
+<img align="left" alt="SQL" width="22px" src="cssLogo.png">
 
-<img align="left" alt="SQL" width="26px" src="jsLogo.png">&nbsp;
+<img align="left" alt="SQL" width="26px" src="jsLogo.png">
+
+<img align="left" alt="SQL" width="22px" src="python-logo.png">
