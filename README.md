@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, I´m Manu 😎
+<br>
 
-<!--
-**Manu84-bit/Manu84-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧭 I´m a developer, a test designer, a teacher and an eternal student.
+### 🛸 In a previous life, I used to be a philosopher and a logician.
+### 🔥 Currently, I'm learning basically everything, but i´m focused in app and game development
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and tools:
+
+<img align="left" alt="SQL" width="26px" src="unity-icon-png-3.png"> &nbsp;
+
+<img align="left" alt="SQL" width="26px" src="androidLogo.jpg">&nbsp;
+
+<img align="left" alt="SQL" width="20px" src="java.png">&nbsp;
+
+<img align="left" alt="SQL" width="26px" src="csharp-logo.png">&nbsp;
+
+<img align="left" alt="SQL" width="26px" src="HTML-Logo.png">&nbsp;
+
+<img align="left" alt="SQL" width="20px" src="cssLogo.png">&nbsp;
+
+<img align="left" alt="SQL" width="26px" src="jsLogo.png">&nbsp;
