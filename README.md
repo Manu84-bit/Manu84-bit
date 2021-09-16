@@ -1,7 +1,7 @@
 ## Hi, I´m Manu 😎
 <br>
 
-### 🧭 I´m a developer, a test designer, a teacher and an eternal student.
+### 🧭 I´m a developer, a standardized educational test designer, a teacher and an eternal student.
 ### 🛸 In a previous life, I used to be a philosopher and a logician.
 ### 🔥 Currently, I'm learning basically everything, but i´m focused in app and game development
 
