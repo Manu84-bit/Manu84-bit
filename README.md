@@ -11,7 +11,7 @@
 
 <img align="left" alt="SQL" width="26px" src="unity-icon-png-3.png"> &nbsp;
 
-<img align="left" alt="SQL" width="26px" src="androidLogo.jpg">&nbsp;
+<img align="left" alt="SQL" width="30" src="androidLogo.jpg">&nbsp;
 
 <img align="left" alt="SQL" width="20px" src="java.png">&nbsp;
 
